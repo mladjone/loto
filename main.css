@@ -88,6 +88,8 @@ footer ul li p{
   border-radius: 50%;
   width: 20px;
   height: 20px;
+  line-height: 20px;
+  font-size: 14px;
   margin: 0;
   text-align: center;
   display: block;
