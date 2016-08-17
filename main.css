@@ -15,7 +15,7 @@ table{
   display: inline-block;
 }
 table:last-child{
-  border-right: 1px solid #E4007B;
+  border-right: 2px solid #E4007B;
 }
 table tr th{
   background-color: #E4007B;
